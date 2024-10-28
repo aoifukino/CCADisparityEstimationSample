@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "hCUQzssMoqI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aoifu\\OneDrive - 学校法人　福山大学\\source\\repos\\CCADisparityEstimationSample\\CCADisparityEstimationSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aoifu\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\aoifu\\.nuget\\packages\\opencvsharp4\\4.9.0.20240103\\opencvsharp4.4.9.0.20240103.nupkg.sha512",
+    "C:\\Users\\aoifu\\.nuget\\packages\\opencvsharp4.runtime.win\\4.9.0.20240103\\opencvsharp4.runtime.win.4.9.0.20240103.nupkg.sha512",
+    "C:\\Users\\aoifu\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\aoifu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
